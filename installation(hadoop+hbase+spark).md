@@ -11,5 +11,5 @@ http://dblab.xmu.edu.cn/blog/1307-2/
 buy 3 ECS first   
 
 alicloud       141.5 rmb/m    
-huaweicloud    187.68 rmb/m
+huaweicloud    187.68 rmb/m    
 tencentcloud   169.5 rmb/m
